@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a277028f.css",
+    "main.js": "/static/js/main.fd58dc73.js",
+    "static/media/alisveris.png": "/static/media/alisveris.03c6b2aaae487987f7ec.png",
+    "static/media/tarihi-yerler.png": "/static/media/tarihi-yerler.d9691a574b8c9b944196.png",
+    "static/media/gunluk-turlar.png": "/static/media/gunluk-turlar.5aa3546f5a81fe627703.png",
+    "static/media/undersea.png": "/static/media/undersea.1748bf985b399b176582.png",
+    "static/media/dogal-guzellikler.png": "/static/media/dogal-guzellikler.8201f9e744d3b669384a.png",
+    "static/media/gece-hayati.png": "/static/media/gece-hayati.29a8d191378796f335c4.png",
+    "static/media/deniz-plaj.png": "/static/media/deniz-plaj.33ed7ab6248dd969be30.png",
+    "static/media/starsea.png": "/static/media/starsea.183f2afcfca8b7b60596.png",
+    "static/media/lezzet-duraklari.png": "/static/media/lezzet-duraklari.67bd7cb94b068bbe3173.png",
+    "static/media/herosection-bg.png": "/static/media/herosection-bg.e70df8b3400b7c5ab770.png",
+    "static/media/seafish.png": "/static/media/seafish.e1f57e57448245d8d40e.png",
+    "static/media/hat.png": "/static/media/hat.75ac7c635dc3f0fa7260.png",
+    "static/media/bgfish.png": "/static/media/bgfish.c0d70d216ba2e25f8d0f.png",
+    "index.html": "/index.html",
+    "main.a277028f.css.map": "/static/css/main.a277028f.css.map",
+    "main.fd58dc73.js.map": "/static/js/main.fd58dc73.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a277028f.css",
+    "static/js/main.fd58dc73.js"
+  ]
+}
